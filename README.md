@@ -3,7 +3,7 @@ QGIS Python scripts to calculate slope from DEM and classify embankments as Flat
 
 This repository contains a set of QGIS-compatible Python scripts for evaluating the safety of highway embankments using slope calculated from a DEM (Digital Elevation Model). The workflow includes extracting elevation along line features (e.g., cross-sections or chainages) and classifying slope into categories such as Flat, Adequate, and Steep based on predefined thresholds.
 
-> Input datasets (DEM) used in this project are not included in this repository. The scripts are generic and can be adapted to any road elevation dataset.
+> Input datasets (DEM) used in this project are not included in this repository. The scripts are generic and can be adapted to any elevation dataset.
 
 ---
 
